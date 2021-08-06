@@ -1,0 +1,28 @@
+{
+  "name": "ListApp",
+  "version": "1.0.0",
+  "description": "List application using graphql and react",
+  "main": "index.js",
+  "dependencies": {
+    "apollo-server-express": "^3.1.2",
+    "concurrently": "^6.2.0",
+    "express": "^4.17.1",
+    "graphql": "^15.5.1",
+    "mongoose": "^5.13.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samrobers/ListApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samrobers/ListApp/issues"
+  },
+  "homepage": "https://github.com/samrobers/ListApp#readme"
+}
